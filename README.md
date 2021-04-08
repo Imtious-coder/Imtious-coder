@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtious Islam (Midul)</h1>
-<h3 align="center">A Passionate JavaScript Developer From Comilla, Bangladesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+<h3 align="center">A Passionate JavaScript Developer From Comilla, Bangladesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
@@ -29,7 +28,7 @@
 - 📫 How to reach me **iarafat386@gmail.com**
 
 - ⚡ Fun fact **I can't joke**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/islamimtious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="islamimtious" height="30" width="40" /></a>
@@ -37,6 +36,9 @@
 <a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
 </p>
+
+
+
 
 ## 👨‍💻 Languages and Tools:
 
