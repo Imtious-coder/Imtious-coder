@@ -15,7 +15,7 @@
 
 - 😄 I want to learn everything
 
-- 👨‍💻 All of my projects are available at [https://portfolio-c926a.web.app/)
+- 👨‍💻 All of my projects are available at (https://portfolio-c926a.web.app/)
 
 - 📫 How to reach me **iarafat386@gmail.com**
 
