@@ -9,13 +9,13 @@
 </p>
 
 ### 📖 About me
-- 🔭 I’m currently working on [My Portfolio](https://keen-curran-7fb19c.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio](https://portfolio-c926a.web.app/)
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js and MongoDB**
 
 - 😄 I want to learn everything
 
-- 👨‍💻 All of my projects are available at [https://keen-curran-7fb19c.netlify.app/](https://keen-curran-7fb19c.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-c926a.web.app/)
 
 - 📫 How to reach me **iarafat386@gmail.com**
 
