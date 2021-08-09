@@ -20,15 +20,6 @@
 
 </br>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/islamimtious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="islamimtious" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imtious islam" height="30" width="40" /></a>
-<a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
-</p>
-
-</br>
 
 
 <h3 align="center">👨‍💻 Languages and Tools:</h3>
@@ -43,6 +34,7 @@
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>    <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
   
+  </hr>
 </br>
 
 <p align="center">
@@ -50,5 +42,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtious-coder&show_icons=true&locale=en" alt="imtious-coder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtious-coder&" alt="imtious-coder" /></p>
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/islamimtious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="islamimtious" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imtious islam" height="30" width="40" /></a>
+<a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
+</p>
+
+</br>
 
 
