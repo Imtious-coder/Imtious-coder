@@ -4,7 +4,6 @@
 <h1 align="center">Hi, I'm Imtious Islam Midul</h1>
 <h3 align="center">A Passionate JavaScript Developer(React) From Cumilla, Bangladesh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtious-coder&label=Profile%20views&color=0e75b6&style=flat" alt="imtious-coder" /> </p>
  
  
 
@@ -47,6 +46,9 @@
 <a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtious-coder&label=Profile%20views&color=0e75b6&style=flat" alt="imtious-coder" /> </p>
 
 </br>
 
