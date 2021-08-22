@@ -1,4 +1,4 @@
-<p align="center"><img src="./image.jpg" width="350">
+<p align="center"><img src="https://i.ibb.co/S605nJJ/image.jpg" width="350">
 </p>
 
 <h1 align="center">Hi, I'm Imtious Islam Midul</h1>
