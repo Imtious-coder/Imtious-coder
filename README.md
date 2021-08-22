@@ -1,23 +1,19 @@
-<img align="center" src="https://cdn.nohat.cc/thumb/f/720/9cab5d83ed2540df81a0.jpg" width="250">
+<p align="center"><img src="./image.jpg" width="350">
+</p>
 
-<h1 align="center">Hi 👋, I'm Imtious Islam (Midul)</h1>
-<h3 align="center">A Passionate JavaScript Developer(React) From Comilla, Bangladesh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h1 align="center">Hi, I'm Imtious Islam Midul</h1>
+<h3 align="center">A Passionate JavaScript Developer(React) From Cumilla, Bangladesh<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtious-coder&label=Profile%20views&color=0e75b6&style=flat" alt="imtious-coder" /> </p>
- 
+
+<br>
  
 
 ## 📖 About me
 - 🔭 I’m currently working on [My Portfolio](https://portfolio-c926a.web.app/)
-
-- 🌱 I’m currently learning **JavaScript, React, Node.js and MongoDB**
-
-- 😄 I want to learn everything
-
+- 🌱 I’m currently learning **React || Node.js || MongoDB**
+- 😄 I want to learn Golang next.
 - 👨‍💻 All of my projects are available at (https://portfolio-c926a.web.app/)
-
 - 📫 How to reach me **iarafat386@gmail.com**
-
 - ⚡ Fun fact **I can't joke**
 
 </br>
@@ -51,6 +47,9 @@
 <a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtious-coder&label=Profile%20views&color=0e75b6&style=flat" alt="imtious-coder" /> </p>
 
 </br>
 
