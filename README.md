@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [My Portfolio](https://imtious-islam-portfolio.netlify.app/)
 - 🌱 I’m currently learning **React || Node.js || MongoDB**
 - 😄 I want to learn Golang next.
-- 👨‍💻 All of my projects are available at ([https://portfolio-c926a.web.app/](https://imtious-islam-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at (https://imtious-islam-portfolio.netlify.app/)
 - 📫 How to reach me **iarafat386@gmail.com**
 - ⚡ Fun fact **I can't joke**
 
