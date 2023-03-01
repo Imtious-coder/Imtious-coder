@@ -27,7 +27,7 @@
 <img src="React.svg">
 <img src="Node.svg">
 <img src="Python-3776AB.svg">
-<img src="HTML-E34F26.svg">
+<img src="HTML5-E34F26.svg">
 <img src="CSS3-1572B6.svg">
 <img src="Bootstrap-563D7C.svg">
 <img src="Tailwind_CSS-38B2AC.svg">
