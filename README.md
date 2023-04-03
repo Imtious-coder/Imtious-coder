@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React || Node.js || MongoDB**
 - 😄 I want to learn Golang next.
 - 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/)
-- 📫 How to reach me **iarafat386@gmail.com**
+- 📫 How to reach me **imtious.islam.me@gmail.com**
 - ⚡ Fun fact **I can't joke**
 
 </br>
