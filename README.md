@@ -4,9 +4,7 @@
 <h1 align="center">Hi! I'm Imtious Islam</h1>
 <h3 align="center">A Passionate JavaScript Developer.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
-
 <br>
-
 
 ### 📖 About me
 - 🔭 🌱 I’m currently learning **C** || **OOP** 😄 I want to learn Golang next. 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/) 📫 How to reach me **imtious.islam.me@gmail.com** ⚡ Fun fact **Hacking is a Passion**
