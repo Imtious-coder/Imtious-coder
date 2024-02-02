@@ -51,7 +51,3 @@
 
 </br>
 
-
-### Watch my contribution graph get eaten by the snake
-
-![snake gif](https://github.com/Imtious-coder/Imtious-coder/blob/output/github-contribution-grid-snake.gif)
