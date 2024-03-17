@@ -7,7 +7,7 @@
 <br>
 
 ### 📖 About me
-- 🔭 Recent ongoing project Fullstack e-commerce project (https://kinbo-ltd.netlify.app/) 🌱 I’m currently learning **C** || **OOP** 😄 I want to learn Golang next. 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/) 📫 How to reach me **imtious.islam.me@gmail.com** ⚡Fun fact **Hacking is a Passion**
+- 🔭 My Recent ongoing project Fullstack e-commerce project (https://kinbo-ltd.netlify.app/) 🌱 I’m currently learning **C** || **OOP** 😄 I want to learn Golang next. 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/) 📫 How to reach me **imtious.islam.me@gmail.com** ⚡Fun fact **Hacking is a Passion**
 
 </br>
 
