@@ -6,16 +6,14 @@
 <h2 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Imtious Islam A Software Engineer based in Bangladesh.</h2>
 
 <br>
-
-### 📖 About me
+#### 📖 About me
 - 🔭 I'm working on LMS. 🌱 I’m currently learning **C++** 😄 I want to learn Golang next. 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/) 📫 How to reach me **imtious.islam.me@gmail.com** ⚡Fun fact **Hacking is a Passion**
-
 </br>
 
 
 
-<h3 align="center">👨‍💻 Languages and Tools:</h3>
 
+<h3 align="center">👨‍💻 Languages and Tools:</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -101,14 +99,24 @@
 <br />
   
 </p>
-  
 </hr>
 </br>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtious-coder&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> </p>
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtious-coder&show_icons=true&locale=en" alt="imtious-coder" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imtious-coder&" alt="imtious-coder" /></p>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imtious-coder&layout=pie)](https://github.com/Imtious-coder/github-readme-stats)
+
+</div>
+
+<div align="center">
+  
+![GitHub stats of Imtious](https://github-readme-stats.vercel.app/api?username=Imtious-coder&show_icons=true&theme=radical)
+
+</div>
+
+<!-- This is a comment in Markdown. It will not be visible in the rendered README. -->
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
