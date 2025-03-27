@@ -5,15 +5,28 @@
 <h3 align="center"><strong>Specializing in Problem Solving & Building Web Applications.</strong></h3>
 <h2 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Imtious Islam A Software Engineer based in Bangladesh.</h2>
 
-<br>
-#### 📖 About me
-- 🔭 I'm working on LMS. 🌱 I’m currently learning **C++** 😄 I want to learn Golang next. 👨‍💻 All of my projects are available at (https://imtious-portfolio.netlify.app/) 📫 How to reach me **imtious.islam.me@gmail.com** ⚡Fun fact **Hacking is a Passion**
 </br>
 
+## 📌 About Me  
 
+- 🔥 Passionate about problem-solving and web development.  
+- 💻 4+ years of experience in building scalable web applications.  
+- 🚀 Always learning and exploring new technologies.
 
+</br>
 
-<h3 align="center">👨‍💻 Languages and Tools:</h3>
+## 🚀 What I'm Doing  
+
+- 🌍 Developing a **Learning Management System (LMS)** to enhance online education.  
+- 🐍 Learning **Python** to expand backend development skills.  
+- 💻 Exploring **C++** for system-level programming and performance optimization.  
+- 🔎 Solving **algorithmic and coding problems** to improve problem-solving skills.  
+- 🔧 Experimenting with new technologies to improve development workflows.  
+- 📈 Contributing to open-source projects and sharing knowledge.  
+
+</br>
+
+## 👨‍💻 Languages and Tools:
 <p align="center">
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -118,13 +131,14 @@
 
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/islamimtious" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="islamimtious" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imtious islam" height="30" width="40" /></a>
-<a href="https://fb.com/imtious islam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imtious islam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@iarafat386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@iarafat386" height="30" width="40" /></a>
-</p>
+## 📫 How to Reach Me  
+
+- 📧 Email: [imtious.islam.me@gmail.com](mailto:imtious.islam.me@gmail.com)  
+- 🌐 Portfolio: [imtious.com](https://imtious-portfolio.netlify.app/)  
+- 🔗 LinkedIn: [linkedin.com/in/imtious](https://www.linkedin.com/in/imtious/)  
+- 📘 Facebook: [facebook.com/imtious.midul](https://www.facebook.com/imtious.midul/)  
+- 📍 Location: Riyadh, Saudi Arabia  
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtious-coder&label=Profile%20views&color=0e75b6&style=flat" alt="imtious-coder" /> </p>
