@@ -1,5 +1,7 @@
-<p align="center"><img src="https://i.ibb.co/S605nJJ/image.jpg" width="350">
+<!-- <p align="center"><img src="https://i.ibb.co/S605nJJ/image.jpg" width="350"> -->
+ <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112t956fbvhphsm4yic3cfgidnvpimsmo4qqor5my1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="450">
 </p>
+
 
 <p align="center"><strong>FOUR YEARS OF MAGICAL EXPERIENCE IN WEB 🌍</strong></p>
 <h4 align="center"><strong>Specializing in Problem Solving & Building Web Applications.🧑🏻‍💻</strong></h3>
