@@ -12,7 +12,7 @@
 
 ## 📌 About Me  
 
-- 💻 4+ years of experience in building scalable web applications.  
+- 💻 4.5 years of experience in building scalable web applications.  
 - 🔥 Passionate about problem-solving and web development.  
 - 🚀 Always learning and exploring new technologies.
 
