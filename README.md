@@ -5,7 +5,7 @@
 
 <p align="center"><strong>FOUR YEARS OF MAGICAL EXPERIENCE IN WEB 🌍</strong></p>
 <h4 align="center"><strong>Specializing in Problem Solving & Building Web Applications.🧑🏻‍💻</strong></h3>
-<h3 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Imtious Islam A Software Engineer based in Saudi Arabia. </h2>
+<h3 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Imtious Islam A Software Engineer based in Bangladesh. </h2>
 
 
 </br>
